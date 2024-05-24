@@ -1,0 +1,11 @@
+Datetime==5.0.0
+discord==2.2.3
+pandas==2.0.1
+asyncio==3.4.3
+numpy==1.24.3
+lark==1.1.5
+openpyxl==3.1.2
+dice==4.0.0
+matplotlib==3.7.2
+japanize_matplotlib==1.1.3
+
